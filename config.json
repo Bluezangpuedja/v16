@@ -1,0 +1,18 @@
+{
+    "botName": "Ruri Kazama",
+    "owner": [
+        "6285751536522@s.whatsapp.net"
+    ],
+    "openWeather": "OpenWeather_APIkey",
+    "igCookie": "Instagram_Cookie",
+    "session": "session",
+    "user_db": "users-db.json",
+    "chat_store": "baileys-store.json",
+    "timezone": "Asia/Jakarta",
+    "footer": "PublicBot • Ruri Kazama",
+    "tier": {
+        "drakath": 450,
+        "nulgath": 1000,
+        "artix": 9999
+    }
+}
